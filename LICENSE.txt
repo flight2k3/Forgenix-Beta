@@ -1,0 +1,9 @@
+Forgenix Beta
+
+Copyright © 2026 Forgenix.
+All rights reserved.
+
+This software is provided for beta testing purposes only.
+
+You may install and use this beta for evaluation.
+You may not redistribute, modify, reverse engineer, or sell this software without written permission from the copyright holder.

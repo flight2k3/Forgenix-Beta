@@ -1,13 +1,10 @@
 # Forgenix Beta
 
-Welcome to the official Forgenix Beta download repository.
+Welcome to the official repository for Forgenix beta releases. 
 
-This repository contains beta releases of Forgenix.
+This space is dedicated exclusively to beta software distribution and issue tracking. Please note that the source code remains private.
 
-The source code is private.
+## Downloads
+To access the latest beta version, please navigate to the **Releases** section of this repository.
 
-## Download
-
-Click **Releases** to download the latest beta.
-
-Thank you for helping test Forgenix!
+Thank you for your participation and support in testing Forgenix!
